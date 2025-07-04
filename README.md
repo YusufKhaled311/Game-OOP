@@ -6,6 +6,8 @@ https://yusufkhaled311.github.io/Game-OOP/
 
 
 🚀 Features
+
+
 ✅ Fetch and display games dynamically using RapidAPI
 
 ✅ Browse games by category: MMORPG, Shooter, Sailing, Permadeath, Superhero, and Pixel
@@ -21,6 +23,7 @@ https://yusufkhaled311.github.io/Game-OOP/
 ✅ Fully responsive design compatible with all screen sizes
 
 🛠️ Tech Stack
+
 HTML5 & CSS3
 
 Bootstrap 5
